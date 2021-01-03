@@ -1,5 +1,5 @@
 # Counter
-Check it out <a href="#">here!</a>
+Check it out <a href="https://ianbrdeguzman.github.io/counter/">here!</a>
 
 #### Created using:
 * HTML5
